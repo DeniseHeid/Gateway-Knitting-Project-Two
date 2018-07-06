@@ -1,0 +1,25 @@
+body {background-color: rgb(190,226,248)}
+
+h1 {font-size: 150%}
+h3{font-size: 100%}
+div#logo_cup_picture {text-align: left}
+div#logo_cup_statement {text-align: left}
+div#learned {text-align: left}
+
+ul#contact {list-style-type: none}
+
+ul#horizontal {border-radius: 20px; border-bottom: 2px solid black; border-top: 2px solid black}
+ul#horizontal {padding: 0}
+ul#horizontal {background-color: rgb(223,220,222); list-style-type: none; line-height: 60px}
+ul#horizontal ul li a {text-align: center}
+
+ul#vertical {list-style-type: none}
+
+
+ul#comments {list-style-type: none; margin-left: 95px; margin-right: 0}
+ul#comments li {max-width: 250px; min-width: 250px; margin-left: 10px}
+ul#comments li h1 p {font-size: 60%}
+ul#comments li h1 {font-size: 125%}
+
+div#contact_info {text-align: center}
+footer {text-align: center}
